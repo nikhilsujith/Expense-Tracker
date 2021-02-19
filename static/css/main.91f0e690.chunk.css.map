@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,gBACI,WAAY,CACZ,QACJ,CAEA,KACI,+GAAqF,CACrF,qBACJ","file":"main.91f0e690.chunk.css","sourcesContent":["#root, body, html{\n    height: 100%;\n    margin: 0%;\n}\n\nbody{\n    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./assets/money.png);\n    background-size: cover;\n}"]}
